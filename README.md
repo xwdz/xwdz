@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 网络广告作弊分析系统
-- Android Framwork
 - 物联网研发
+- Android Framwork
+- 网络广告作弊分析系统
 
 
 ### 语言
