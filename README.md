@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 网络广告作弊分析系统
 - Android Framwork
-- 广告大数据分析
+- 物联网研发
 
 
 ### 语言
